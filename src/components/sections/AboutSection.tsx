@@ -16,7 +16,7 @@ const AboutSection = () => (
         </p>
         <p>
           Proven ability to build complex monitoring systems with a focus on metrics, KPIs, and operational efficiency. 
-          Currently pursuing B.Tech at SUIIT, Burla (2023-2027) with a CGPA of 9.10/10.00.
+          Currently pursuing B.Tech at SUIIT, Burla (2023-2027) with a CGPA of 9.18/10.00.
         </p>
       </div>
     </div>
